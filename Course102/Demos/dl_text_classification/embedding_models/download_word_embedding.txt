@@ -1,0 +1,1 @@
+Down load word embedding from https://ai.tencent.com/ailab/nlp/zh/download.html  tencent-ailab-embedding-zh-d100-v0.2.0-s.tar.gz
