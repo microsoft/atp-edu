@@ -7,9 +7,9 @@ The ATP course aims to teach advanced technology concepts, techniques, and best 
 Repository Structure
 This repository is organized as follows:
 
-demos/: This directory contains demo projects and example code that will be presented during the course. Each demo is organized in a separate folder and includes a README file with instructions and explanations.
+${CourseId}/demos/: This directory contains demo projects and example code that will be presented during the course. Each demo is organized in a separate folder and includes a README file with instructions and explanations.
 
-assignments/: This directory contains the assignments that students are required to complete after each class. Each assignment is organized in a separate folder and includes a README file with detailed instructions, requirements, evaluation criteria, and additional resources, such as reading materials, reference documentation, and useful links related to the course topics.
+${CourseId}/assignments/: This directory contains the assignments that students are required to complete after each class. Each assignment is organized in a separate folder and includes a README file with detailed instructions, requirements, evaluation criteria, and additional resources, such as reading materials, reference documentation, and useful links related to the course topics.
 
 # Getting Started
 To get started, clone this repository to your local machine using the following command:
