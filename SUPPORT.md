@@ -1,25 +1,20 @@
-# TODO: The maintainer of this repo has not yet edited this file
-
-**REPO OWNER**: Do you want Customer Service & Support (CSS) support for this product/project?
-
-- **No CSS support:** Fill out this template with information about how to file issues and get help.
-- **Yes CSS support:** Fill out an intake form at [aka.ms/onboardsupport](https://aka.ms/onboardsupport). CSS will work with/help you to determine next steps.
-- **Not sure?** Fill out an intake as though the answer were "Yes". CSS will help you decide.
-
-*Then remove this first heading from this SUPPORT.MD file before publishing your repo.*
-
 # Support
+This document provides information on how to get support for this project, file issues, and engage with the community and maintainers for help.
 
-## How to file issues and get help  
+## How to File Issues and Get Help
 
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing 
-issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
-feature request as a new Issue.
+This project uses GitHub Issues to track bugs and feature requests. Please search the existing issues before filing new issues to avoid duplicates. For new issues, file your bug or feature request as a new [Issue](https://github.com/microsoft/atp-edu/issues).
 
-For help and questions about using this project, please **REPO MAINTAINER: INSERT INSTRUCTIONS HERE 
-FOR HOW TO ENGAGE REPO OWNERS OR COMMUNITY FOR HELP. COULD BE A STACK OVERFLOW TAG OR OTHER
-CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
+## Microsoft Support Policy
 
-## Microsoft Support Policy  
+Support for this project is limited to the resources listed above. The maintainers will do their best to address your concerns and provide assistance. However, there is no guaranteed response time, and support may be limited during weekends and holidays.
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+If you require professional support for this project or other Microsoft products, consider contacting Microsoft Support (https://support.microsoft.com/) or explore other support options (https://support.microsoft.com/en-us/help/4341255/support-options).
+
+Please note that the project maintainers and community members are not obligated to provide support for issues that are not directly related to the project, such as general programming questions or issues with third-party tools and libraries.
+
+## Contributing
+
+If you would like to contribute to this project, please review the CONTRIBUTING.md file for guidelines on how to submit pull requests, report issues, and engage with the community.
+
+We welcome and appreciate your contributions!
